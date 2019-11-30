@@ -1,2 +1,0 @@
-# look
-Created with CodeSandbox
